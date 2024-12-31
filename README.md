@@ -8,6 +8,7 @@
 - Dentre as ferramentas que mais utilizo estão:
 
 -
-            ![Texto alternativo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)
+           ![Python Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)
+
 
           
