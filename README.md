@@ -8,5 +8,6 @@
 - Dentre as ferramentas que mais utilizo estão:
 
 -
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+            ![Texto alternativo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)
+
           
